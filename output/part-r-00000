@@ -1,0 +1,5 @@
+<post Body="How to undo the last commits in Git?" Id="4"><comments Body="This doesn't really serve as way to undo a set of changes those? This is more if you need to amend a change?" PostId="4" commentId="4812"/><comments Body="We really need to take that -a out of the last c" PostId="4" commentId="4123"/><comments Body="If you're working in DOS, instead of `git reset" PostId="4" commentId="4323"/></post>
+<post Body="what is Java" Id="5"><comments Body="java is type of coffee bean" PostId="5" commentId="5612"/><comments Body="java is a language" PostId="5" commentId="5323"/></post>
+<post Body="how to do google search" Id="6"/>
+<post Body="what is a hashmap" Id="7"/>
+<post Body="how to reverse a string" Id="8"><comments Body="string utils reverse" PostId="8" commentId="8831"/><comments Body="reverse using iteration" PostId="8" commentId="8902"/><comments Body="reverse using recursion" PostId="8" commentId="8452"/></post>
